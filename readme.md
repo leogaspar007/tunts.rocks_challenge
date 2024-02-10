@@ -1,13 +1,13 @@
 #Tunts.Rocks Challenge
 Author: Leonardo Assis Gaspar
 
-##Descripition
+## Descripition
 
 Description here.
 
-##Instalation
+## Instalation
 
-###Step 1: Create a virtual environment (optional)
+### Step 1: Create a virtual environment (optional)
 - Install virtualenv:
 `pip install virtualenv`
 
@@ -20,7 +20,7 @@ On Windowns:
 On Linux or MacOs:
 `source myenv/bin/activate`
 
-###Step 2: Install dependencies
+### Step 2: Install dependencies
 
 - Use te following command to install all necessary dependencies for this project:
 `pip install -r requirements.txt`
