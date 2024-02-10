@@ -3,7 +3,7 @@ Author: Leonardo Assis Gaspar
 
 ## Descripition
 
-Description here.
+This project was created for the Tunts.Rocks callenge. Follow the instructions below on how to install and use it.
 
 ## Instalation
 
@@ -24,3 +24,7 @@ On Linux or MacOs:
 
 - Use te following command to install all necessary dependencies for this project:
 `pip install -r requirements.txt`
+
+### Step 3: Change te spreadsheet id
+
+- Open the 'config.py' file and paste your spreadsheet id where it says 'paste_your_id_here'.
